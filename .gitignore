@@ -31,34 +31,4 @@ yarn-error.log*
 .env.staging
 =======
 >>>>>>> 84cefccd43c36e597e37d9636f19b08cf697a451
-# Distribution / packaging
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-share/python-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
-
-### Django ###
-*.log
-*.pot
-*.pyc
-__pycache__/
-local_settings.py
 db.sqlite3
-datadump.json
-db.sqlite3-journal
-media
-static/images
